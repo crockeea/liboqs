@@ -105,6 +105,12 @@ You need to install the following packages using brew (or a package manager of y
 
 	brew install autoconf automake libtool openssl wget
 
+### Install dependencies for Amazon Linux/RHEL/CentOS
+
+You need to install the following packages:
+
+	brew install autoconf automake git libtool openssl-devel
+
 ### Building
 
 To build, first clone or download the source from GitHub:
