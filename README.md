@@ -97,7 +97,7 @@ Builds are tested using the Travis continuous integration system on macOS 10.13.
 
 You need to install the following packages:
 
-	sudo apt install autoconf automake libtool gcc libssl-dev unzip xsltproc
+	sudo apt install autoconf automake gcc libssl-dev libtool make unzip xsltproc
 
 ### Install dependencies for macOS
 
